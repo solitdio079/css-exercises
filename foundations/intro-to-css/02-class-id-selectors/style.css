@@ -1,0 +1,15 @@
+.odd{
+    background-color: rgb(244, 180, 180);
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+.big-font{
+    font-size: 24px;
+}
+#second{
+    color: #0000ff;
+    font-size: 36px;
+}
+#forth{
+    background-color: rgb(161, 255, 161);
+    font-weight: bold;
+}
