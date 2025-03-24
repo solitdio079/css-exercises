@@ -20,7 +20,7 @@ img {
 }
 .section-body{
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
   /*padding: 32px;*/
   gap: 52px;
 }
